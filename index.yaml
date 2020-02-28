@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  nginx-cy:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2020-02-28T10:56:07.348435056Z"
+    description: customized jenkins
+    digest: af1f433b3e10f601c2cecdb9a8dc9c6c1a2a11caa86f69f58690efc218980adc
+    name: nginx-cy
+    urls:
+    - https://pmohankumar.github.io/helmtraining/nginx-cy-2.tgz
+    version: "2"
+generated: "2020-02-28T10:56:07.348063964Z"
